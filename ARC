@@ -1,0 +1,10 @@
+<!Doctype html>
+<html>
+<head>
+<title>ARC</title>
+</head>
+<body>
+<h1>中华外星人共和国于今天（10月24日）成立。</h1>
+<p>网站将在十个星期内完善</p>
+</body>
+</html>
